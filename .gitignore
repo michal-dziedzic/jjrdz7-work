@@ -1,4 +1,4 @@
-/.idea/
-*/.idea/
-*/out
-*/example.iml
+HelloWord/.idea/
+*HelloWord/.idea/
+*HelloWord/out
+*HelloWord/example.iml
